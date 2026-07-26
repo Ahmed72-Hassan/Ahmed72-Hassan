@@ -1,32 +1,44 @@
-# Hi there, I'm Ahmed Hassan 👋
+<!-- ========================= -->
+<!--      HERO SECTION         -->
+<!-- ========================= -->
+
+<h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
+
+<h3 align="center">
+AI Engineer • NLP Engineer
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Engineer;RAG+%7C+LLMs+%7C+FastAPI;Computer+Vision+Developer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I'm an **AI Engineer** passionate about building intelligent systems powered by Machine Learning, Deep Learning, Large Language Models, and Retrieval-Augmented Generation (RAG).
+🎓 AI Engineer passionate about building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, NLP, and Large Language Models.
 
-I enjoy transforming research ideas into production-ready AI applications with clean architectures, scalable APIs, and optimized pipelines.
+I enjoy designing scalable AI architectures, developing production-ready APIs, and building advanced Retrieval-Augmented Generation (RAG) systems.
 
-- 🎓 Bachelor's in Artificial Intelligence
-- 🤖 AI, Machine Learning & NLP Engineer
-- 🧠 Passionate about LLMs & RAG Systems
-- ⚡ Building FastAPI-based AI Applications
-- 🌍 Based in Egypt
+- 🎓 **Bachelor of Artificial Intelligence**
+- 🏫 **Faculty of Artificial Intelligence**
+- 🏛️ **Delta University for Science and Technology**
+- 📍 Mansoura, Egypt
+- 💼 AI Engineer
+- 🌱 Currently exploring Agentic AI, Multi-Agent Systems & Advanced RAG
+- 🚀 Open to AI Engineering opportunities
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+### Programming Language
 
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
+
+---
 
 ### AI / Machine Learning
 
@@ -34,27 +46,36 @@ I enjoy transforming research ideas into production-ready AI applications with c
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-- Scikit-Learn
+- Machine Learning
+- Deep Learning
 - CNN
 - RNN
 - Transfer Learning
+- Computer Vision
 - Model Optimization
+- Hyperparameter Tuning
 - Grid Search
-- SMOTE
-- Data Augmentation
+- Scikit-Learn
 
 ---
 
 ### Generative AI
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Contextual Memory
-- Semantic Routing
-- Prompt Engineering
-- Vector Databases
-- ChromaDB
-- BGE Reranker
+🤖 Large Language Models (LLMs)
+
+📚 Retrieval-Augmented Generation (RAG)
+
+🧠 Contextual Memory
+
+🎯 Semantic Routing
+
+⚡ Prompt Engineering
+
+🗄️ ChromaDB
+
+📄 Vector Search
+
+🔍 BGE Reranker
 
 ---
 
@@ -64,9 +85,10 @@ I enjoy transforming research ideas into production-ready AI applications with c
 <img src="https://skillicons.dev/icons?i=fastapi"/>
 </p>
 
+- FastAPI
 - AsyncIO
 - REST APIs
-- High Performance AI APIs
+- High Performance APIs
 
 ---
 
@@ -76,60 +98,102 @@ I enjoy transforming research ideas into production-ready AI applications with c
 - NumPy
 - Matplotlib
 - Plotly
-- EDA
 - Feature Engineering
+- Data Cleaning
+- SMOTE
+- EDA
 
 ---
 
-## 🚀 Featured Projects
+# 🏆 Featured Projects
 
-### 🌍 Lumeria — Next-Generation Tourism Assistant
+## 🌍 Lumeria
+### Next-Generation Tourism Experience using AI
 
-Enterprise-grade RAG chatbot powered by:
+> Enterprise-grade RAG Assistant
+
+✨ Features
 
 - FastAPI
 - ChromaDB
 - Semantic Routing
 - Contextual Memory
-- Two-Stage Retrieval
 - BGE Reranker
 - Async Concurrency
-
-### 👴 SafeHaven
-
-Smart Elderly Care System
-
-Features:
-
-- Fall Detection
-- Wearable Sensors
-- Deep Learning
-- Machine Learning
-- IoT
-- Mobile Notifications
-
-Accuracy:
-> ✅ 97%
+- Production-ready Architecture
 
 ---
 
-### 🩸 Leukemia Detection using Deep Learning
+## 👴 SafeHaven
 
-Computer Vision system for detecting leukemia from microscopic blood cell images.
+### Smart Elderly Care System
 
-Technologies:
+AI + IoT based healthcare platform for elderly monitoring.
+
+✔ Real-time Fall Detection
+
+✔ Wearable Sensors
+
+✔ Mobile Notifications
+
+✔ Deep Learning
+
+✔ Machine Learning
+
+✔ IoT
+
+🎯 Accuracy **97%**
+
+---
+
+## 🩸 Leukemia Detection
+
+Deep Learning model for detecting leukemia from microscopic blood cell images.
+
+Technologies
 
 - TensorFlow
 - OpenCV
 - CNN
+- Image Processing
 
-Accuracy:
-
-> 🎯 97.74%
+🎯 Accuracy **97.74%**
 
 ---
 
-## 📈 GitHub Stats
+# 🎓 Education
+
+## Delta University for Science and Technology
+
+🎓 Bachelor of Artificial Intelligence
+
+🏫 Faculty of Artificial Intelligence
+
+📍 Mansoura, Egypt
+
+📈 GPA: **3.46 / 4.00**
+
+2022 — 2026
+
+---
+
+# 💼 Experience
+
+## National Telecommunication Institute (NTI)
+
+**AI for Business Trainee**
+
+Worked on
+
+- Streamlit Applications
+- Gemini API
+- LLMs
+- Prompt Engineering
+- Machine Learning
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -147,29 +211,36 @@ Accuracy:
 
 ---
 
-## 🏆 Achievements
+# 🏅 Certifications
 
-- 🚀 Built production-ready RAG systems
-- 🤖 Developed ML & DL applications with 97%+ accuracy
-- 📚 AI Instructor Volunteer
-- 💡 Passionate about scalable AI architectures
+✔ NVIDIA
+
+✔ NTI
+
+✔ Mahara Tech
+
+✔ Orange Digital Center
+
+✔ Coursera
+
+✔ Zewail City
 
 ---
 
-## 📫 Connect with Me
+# 📫 Connect with Me
 
-<p>
+<p align="left">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 <a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:ahmedh722004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="YOUR_PORTFOLIO">
@@ -182,6 +253,13 @@ Accuracy:
 
 <p align="center">
 
-⭐️ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+
+</h3>
