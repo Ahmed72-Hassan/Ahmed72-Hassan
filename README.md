@@ -2,15 +2,23 @@
 <!--      HERO SECTION         -->
 <!-- ========================= -->
 
-<h1 align="center">Hi 👋, I'm Ahmed Hassan</h1>
+<p align="center">
+  <img src="./banner.png" alt="Ahmed Hassan Banner" width="100%">
+</p>
 
 <h3 align="center">
 AI Engineer • NLP Engineer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=5D3FD3&center=true&vCenter=true&width=850&lines=Machine+Learning+Engineer;Deep+Learning+Engineer;FastAPI+Developer;LLMs+%7C+RAG+Developer;Always+Learning+New+Technologies"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ahmed72-Hassan&label=Profile%20Views&color=5D3FD3&style=flat" alt="Profile Views"/>
+</p>
+
+---
 
 ---
 
