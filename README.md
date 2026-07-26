@@ -1,7 +1,3 @@
-<!-- ========================= -->
-<!--      HERO SECTION         -->
-<!-- ========================= -->
-
 <p align="center">
   <img src="./banner.png" alt="Ahmed Hassan Banner" width="100%">
 </p>
@@ -11,112 +7,82 @@ AI Engineer • NLP Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=5D3FD3&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=5D3FD3&center=true&vCenter=true&width=850&lines=AI+Engineer;Machine+Learning+Engineer;Deep+Learning+Engineer;NLP+Engineer"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ahmed72-Hassan&label=Profile%20Views&color=5D3FD3&style=flat" alt="Profile Views"/>
 </p>
 
+# 👋 About Me
+
+🎓 I graduated with a Bachelor's degree in Artificial Intelligence from the **Faculty of Artificial Intelligence**, **Delta University for Science and Technology**, Mansoura, Egypt.
+
+💡 Passionate about building AI-powered applications using **Machine Learning, Deep Learning, NLP, Large Language Models (LLMs), and Retrieval-Augmented Generation (RAG).**
+
+🚀 I enjoy developing scalable AI systems, production-ready FastAPI applications, and intelligent solutions that solve real-world problems.
+
+# 🛠️ Tech Stack
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
----
+### 🤖 AI & Machine Learning
 
-# 💫 About Me
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-🎓 AI Engineer passionate about building intelligent systems that solve real-world problems using Machine Learning, Deep Learning, NLP, and Large Language Models.
-
-I enjoy designing scalable AI architectures, developing production-ready APIs, and building advanced Retrieval-Augmented Generation (RAG) systems.
-
-- 🎓 **Bachelor of Artificial Intelligence**
-- 🏫 **Faculty of Artificial Intelligence**
-- 🏛️ **Delta University for Science and Technology**
-- 📍 Mansoura, Egypt
-- 💼 AI Engineer
-- 🌱 Currently exploring Agentic AI, Multi-Agent Systems & Advanced RAG
-- 🚀 Open to AI Engineering opportunities
-
----
-
-# 🚀 Tech Stack
-
-### Programming Language
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
+- Model Optimization
+- Hyperparameter Tuning
 
 ---
 
-### AI / Machine Learning
+### 🧠 Deep Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-</p>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-- Machine Learning
-- Deep Learning
 - CNN
 - RNN
 - Transfer Learning
-- Computer Vision
-- Model Optimization
-- Hyperparameter Tuning
-- Grid Search
-- Scikit-Learn
 
 ---
 
-### Generative AI
+### 💬 NLP & Generative AI
 
-🤖 Large Language Models (LLMs)
+![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6B46C1?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF9800?style=for-the-badge)
 
-📚 Retrieval-Augmented Generation (RAG)
-
-🧠 Contextual Memory
-
-🎯 Semantic Routing
-
-⚡ Prompt Engineering
-
-🗄️ ChromaDB
-
-📄 Vector Search
-
-🔍 BGE Reranker
-
+- Semantic Routing
+- BGE Reranker
+- Contextual Memory 
 ---
 
-### Backend
+### ⚡ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi"/>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-- FastAPI
-- AsyncIO
 - REST APIs
-- High Performance APIs
+- AsyncIO
 
 ---
 
-### Data Science
+### 📊 Data Science
 
-- Pandas
-- NumPy
-- Matplotlib
-- Plotly
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+
+- Exploratory Data Analysis (EDA)
 - Feature Engineering
-- Data Cleaning
-- SMOTE
-- EDA
-
----
 
 # 🏆 Featured Projects
 
 ## 🌍 Lumeria
-### Next-Generation Tourism Experience using AI
+### Next-Gen Tourism Experience Using AI & Augmented Reality
 
 > Enterprise-grade RAG Assistant
 
@@ -169,99 +135,28 @@ Technologies
 
 ---
 
-# 🎓 Education
-
-## Delta University for Science and Technology
-
-🎓 Bachelor of Artificial Intelligence
-
-🏫 Faculty of Artificial Intelligence
-
-📍 Mansoura, Egypt
-
-📈 GPA: **3.46 / 4.00**
-
-2022 — 2026
-
----
-
-# 💼 Experience
-
-## National Telecommunication Institute (NTI)
-
-**AI for Business Trainee**
-
-Worked on
-
-- Streamlit Applications
-- Gemini API
-- LLMs
-- Prompt Engineering
-- Machine Learning
-
----
-
-# 📊 GitHub Analytics
-
+## 🌐 Let's Connect
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏅 Certifications
-
-✔ NVIDIA
-
-✔ NTI
-
-✔ Mahara Tech
-
-✔ Orange Digital Center
-
-✔ Coursera
-
-✔ Zewail City
-
----
-
-# 📫 Connect with Me
-
-<p align="left">
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/Ahmed72-Hassan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/ahmed-hassan-b08313261">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ahmedh722004@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedh722004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge"/>
+<a href="https://ahmedmhassan72.getportify.com/">
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<a href="https://drive.google.com/file/d/1n70pH4a5EZEKTPyT041lKEZhpLxoN4RR/view?usp=drive_link">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
 </p>
 
