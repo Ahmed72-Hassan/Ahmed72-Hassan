@@ -176,7 +176,7 @@ Technologies
 </a>
 
 <a href="https://drive.google.com/file/d/1n70pH4a5EZEKTPyT041lKEZhpLxoN4RR/view?usp=drive_link">
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<img src="https://img.shields.io/badge/My CV-4285F4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
 </p>
