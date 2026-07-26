@@ -44,7 +44,7 @@ AI Engineer • NLP Engineer
 
 - CNN
 - RNN
-- Transfer Learning
+- LSTM
 
 ---
 
@@ -60,12 +60,33 @@ AI Engineer • NLP Engineer
 - Contextual Memory 
 ---
 
-### ⚡ Backend Development
+### 👁️ Computer Vision
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+- Image Processing
+- Image Classification
+- Feature Extraction
+- Transfer Learning
+---
+
+### ⚡ Backend & AI Applications
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 
 - REST APIs
 - AsyncIO
+- Interactive AI Interfaces
+
+---
+
+### ☁️ Deployment & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+- Containerization
+- Deployment
 
 ---
 
